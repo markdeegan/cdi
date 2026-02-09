@@ -19,11 +19,14 @@
   "author": "James Divinagracia / Mark Deegan",
   "type": "module",
   "main": "index.js",
-    "signalk": {
+  "signalk": {
     "displayName": "CDI WebApp",
     "appIcon": "./assets/icons/HYCLogo-7272.png"
   },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "react": "^19.2.4"
   }
 }
