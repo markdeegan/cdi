@@ -3,7 +3,9 @@
   "version": "1.0.0",
   "description": "Course Deviation Indicator WebApp",
   "keywords": [
-    "signalk"
+    "signalk",
+    "signalk-webapp",
+    "signalk-node-server-plugin"
   ],
   "homepage": "https://github.com/markdeegan/cdi#readme",
   "bugs": {
@@ -17,6 +19,10 @@
   "author": "James Divinagracia / Mark Deegan",
   "type": "module",
   "main": "index.js",
+    "signalk": {
+    "displayName": "HYC Racing",
+    "appIcon": "./assets/icons/HYCLogo-7272.png"
+  },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   }
