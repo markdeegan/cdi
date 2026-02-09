@@ -1,0 +1,23 @@
+{
+  "name": "cdi",
+  "version": "1.0.0",
+  "description": "Course Deviation Indicator WebApp",
+  "keywords": [
+    "signalk"
+  ],
+  "homepage": "https://github.com/markdeegan/cdi#readme",
+  "bugs": {
+    "url": "https://github.com/markdeegan/cdi/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/markdeegan/cdi.git"
+  },
+  "license": "ISC",
+  "author": "James Divinagracia / Mark Deegan",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
