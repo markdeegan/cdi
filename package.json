@@ -20,7 +20,7 @@
   "type": "module",
   "main": "index.js",
     "signalk": {
-    "displayName": "HYC Racing",
+    "displayName": "CDI AebApp",
     "appIcon": "./assets/icons/HYCLogo-7272.png"
   },
   "scripts": {
